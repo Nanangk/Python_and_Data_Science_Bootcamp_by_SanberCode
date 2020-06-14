@@ -40,7 +40,21 @@ Tugas - tugas dan Quiz serta Project Selama Bootcamp Python dari SanberCode yang
 <ul>Visualization : Perbandingan Kuantitatif 1</ul>
 <ul>Visualization : Perbandingan Kuantitatif 2</ul>
 <h3>Week 3 Tugas/Quiz</h3>
+<ul>Tugas Day 1</ul>
+<ul>Tugas Day 2</ul>
+<ul>Tugas Day 3</ul>
+<ul>Tugas Day 4</ul>
+<ul>Tugas Day 5</ul>
 <h3>Week 4 Materials Machine Learning</h3>
-<ul>Day 1 </ul>
-<ul>Day 2</ul>
+<ul> Day 1 : Pengenalan Machine Learning </ul>
+<ul> Day 2 : Algoritma KNN dan Model Regresi Linear </ul>
+<ul> Day 3 : Evaluasi Performa Model </ul>
+<ul> Day 4 : Memilih Model </ul>
+<ul> Day 5 : Preprocessing Data </ul>
 <h3>Week 4 Tugas/Quiz</h3>
+<ul>Tugas Day 1</ul>
+<ul>Tugas Day 2</ul>
+<ul>Tugas Day 3</ul>
+<ul>Tugas Day 4</ul>
+<ul>Tugas Day 5</ul>
+<h3> PROJECT AKHIR </h3>
